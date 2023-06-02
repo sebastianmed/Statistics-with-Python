@@ -12,8 +12,8 @@ In this project, I analyzed Airbnb data to uncover insights and patterns about t
 
 ### Project 2: Health Data Analysis
 
-### Project 3: [Add Another Project Here]
-
-## Skills and Tools
+Will be added soon
 
 ## Contact
+
+https://www.linkedin.com/in/sebasmed/
